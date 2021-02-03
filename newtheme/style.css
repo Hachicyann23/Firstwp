@@ -1,0 +1,65 @@
+/* 
+Theme Name: Test
+Author: Trofan	
+*/
+
+body{
+	background: #ffffff;
+}
+
+.menu-top-menu-container{
+	background: #6d6c6cc2;
+	height: 60px;
+	width: 100%;
+}
+
+.custom-menu-class{
+	background: transparent;
+	position: relative;
+	left: 30%;
+}
+.custom-menu-class li {
+	margin-top: 300px;
+    padding-right: 50px;
+	display: inline;
+	height: 50px;
+} 
+
+.custom-menu-class a { 
+	color:#ffffff;
+	text-decoration: none;
+	font-weight: 900;
+	font-size: 30px;
+}
+
+.post-thumb img{
+	width: 100%;
+	height: 420px;
+	margin-bottom: 10px;
+}
+
+.post-img img{
+	width: 100%;
+	height: 500px;
+	margin-bottom: 10px;
+}
+.paddings{
+	padding:10px ;
+}
+
+
+
+/*themeimg*/
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+  }
+
+  @media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+	  font-size: 3.5rem;
+	}
+  }
